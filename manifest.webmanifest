@@ -1,0 +1,16 @@
+{
+  "name": "Khaemrekh",
+  "short_name": "Kem",
+  "description": "Scheda di Kem, Necron Scuoiatore monaco dell'Ombra",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1214",
+  "theme_color": "#161d20",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
